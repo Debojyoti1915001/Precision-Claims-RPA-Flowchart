@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T07:53:22.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yLteP0Y83PyMp8o4Of5t" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T11:10:36.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QEaR2R7ddKgD1661wouT" version="20.8.20" type="github">
   <diagram name="Page-1" id="yMFXraKk5WMwyOzJAYMn">
     <mxGraphModel dx="910" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,38 @@
         <mxCell id="0EnZnVS8WvD0S9_ilJu1-1" value="&lt;ul&gt;&lt;li&gt;Identify the key processes that can be automated&lt;br&gt;&lt;/li&gt;&lt;li&gt;Choose the right automation tools&lt;br&gt;&lt;/li&gt;&lt;li&gt;Develop automated workflows&lt;br&gt;&lt;/li&gt;&lt;li&gt;Test and refine the workflows&lt;br&gt;&lt;/li&gt;&lt;li&gt;Monitor and optimize the workflows&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="510" y="30" width="330" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0EnZnVS8WvD0S9_ilJu1-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EnZnVS8WvD0S9_ilJu1-2" target="0EnZnVS8WvD0S9_ilJu1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EnZnVS8WvD0S9_ilJu1-2" target="0EnZnVS8WvD0S9_ilJu1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-2" value="Landing Page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="45" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-4" value="Gist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EnZnVS8WvD0S9_ilJu1-5" target="0EnZnVS8WvD0S9_ilJu1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-5" value="Admin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EnZnVS8WvD0S9_ilJu1-7" target="0EnZnVS8WvD0S9_ilJu1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-7" value="Employee&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-9" value="Will keep a track of time on laptop!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-11" value="After Logging in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0EnZnVS8WvD0S9_ilJu1-12" value="Can See Analysis on each employee of its office" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
